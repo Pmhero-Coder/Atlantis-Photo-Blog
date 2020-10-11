@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background: linear-gradient(#0026ff 0%, #14db95 100%);
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+#img1 {
+    height: 400px;
+    width: 600px;
+}
+
+#img2 {
+    height: 300px;
+    width: 400px;
+}
+
+#img3 {
+    height: 250px;
+    width: 500px;
+}
+
+#img4 {
+    height: 250px;
+    width: 500px;
+}
